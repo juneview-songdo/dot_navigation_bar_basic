@@ -15,9 +15,9 @@
     ```
 3. start the project by entering the following command.
     ```bash
-    flutter run [execute file path here] -d chrome
+    flutter run lib/app/_/_/interaction/view.blueprint/page/dot_navigation_bar_basic/_/view.dart -d chrome
     ```
 
 ## Screenshots
-![]()
+![](https://github.com/juneview-songdo/dot_navigation_bar_basic/assets/21379657/ca45e5dd-32a4-4570-a76d-81a189df16b3)
 
