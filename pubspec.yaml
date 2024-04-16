@@ -3,7 +3,7 @@ description: "dot navigation bar basic view by juneview"
 #publish_to: 'none'
 repository: https://github.com/juneview-songdo/dot_navigation_bar_basic
 
-version: 1.0.1
+version: 1.0.3
 
 environment:
   sdk: '>=3.3.1 <4.0.0'
